@@ -1,0 +1,28 @@
+/*these are comments*/
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: grey;
+  background-color: orange;
+  margin: 10px 0px;
+  padding: 50px 50px;
+  text-align: center;
+}
+
+body {
+  background-color: rgba(255, 166, 0, 0.356);
+  margin: 0px;
+  padding: 0px;
+}
+
+#vizContainer {
+  background-color: white;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: orange;
+  text-align: center;
+  padding: 10px 0px;
+}
